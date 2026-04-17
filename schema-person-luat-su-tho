@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Nông Thị Thơ (Luật sư Thơ)",
+  "url": "https://vitamlaw.vn/doi-ngu-luat-su/luat-su-tho",
+  "image": "",
+  "sameAs": [
+    "https://www.facebook.com/LuatsuTho/",
+    "https://www.instagram.com/sunny_brand_law/"
+  ],
+  "jobTitle": "Luật sư điều hành",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Công ty TNHH VITAM"
+  }  
+}
+</script>
