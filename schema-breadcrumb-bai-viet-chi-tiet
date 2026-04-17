@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Trang chủ",
+    "item": "https://vitamlaw.vn/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Cẩm nang nhãn hiệu",
+    "item": "https://vitamlaw.vn/cam-nang-nhan-hieu"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Bài viết 1",
+    "item": "https://vitamlaw.vn/cam-nang-nhan-hieu/bai-viet-1"  
+  }]
+}
+</script>
