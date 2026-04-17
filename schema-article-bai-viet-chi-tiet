@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://vitamlaw.vn/cam-nang-nhan-hieu/bai-viet-1"
+  },
+  "headline": "Tên bài viết 1",
+  "description": "Mô tả bài viết 1",
+  "image": "https://vitamlaw.vn/cam-nang-nhan-hieu/anh-bai-viet-1.jpg",  
+  "author": {
+    "@type": "",
+    "name": "Luật Sư Thơ",
+    "url": "https://vitamlaw.vn/doi-ngu-luat-su/luat-su-tho"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": "2026-04-01"
+}
+</script>
