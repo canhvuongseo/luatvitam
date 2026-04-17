@@ -1,0 +1,30 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Công ty TNHH VITAM",
+  "image": "https://vitamlaw.vn/logo.png",
+  "@id": "",
+  "url": "https://vitamlaw.vn/",
+  "telephone": "0946177699",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tầng 4, Số 121-123 Nguyễn Khang, phường Yên Hòa, thành phố Hà Nội",
+    "addressLocality": "Hà Nội",
+    "postalCode": "100000",
+    "addressCountry": "VN"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:30",
+    "closes": "17:30"
+  } 
+}
+</script>
