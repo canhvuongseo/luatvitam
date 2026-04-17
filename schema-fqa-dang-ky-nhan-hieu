@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Tại sao thời gian đăng ký lâu thế (18 - 36 tháng)?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Đây là quy định chung của Luật SHTT để đảm bảo quy trình thẩm định chặt chẽ.  Luật Vitam giúp bạn chuẩn bị hồ sơ chuẩn ngay từ đầu để không bị kéo dài thêm do yêu cầu sửa đổi."
+    }
+  },{
+    "@type": "Question",
+    "name": "Nếu bị từ chối thì sao? Có mất tiền không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Phí dịch vụ không hoàn lại trong mọi trường hợp, trừ khi có lỗi của Luật VITAM dẫn đến đơn bị từ chối.
+Khi bị dự kiến từ chối, luật VITAM sẽ đưa ra phương án khiếu nại/phản hồi/điều chỉnh cho phù hợp.
+Phí dịch vụ ban đầu bao gồm việc đồng hành xử lý các công văn này nhưng không gồm phí Nhà nước."
+    }
+  },{
+    "@type": "Question",
+    "name": "Tôi có thể tự đăng ký được không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Được, nhưng rủi ro cao về phân nhóm sai, không biết tra cứu đánh giá trước khi nộp, quên hoặc không biết cách trả lời khi Cục ra công văn dẫn đến từ chối đơn đăng ký.
+Nếu đăng ký không thành công, doanh nghiệp có thể đối mặt với những rủi ro lớn:
+– Phải thay đổi toàn bộ hệ thống nhận diện đã triển khai: logo, màu sắc, slogan…
+– Chi phí in ấn bao bì, tem nhãn, catalogue phải làm lại từ đầu
+– Ảnh hưởng đến kênh truyền thông, nội dung đã quảng bá phải chỉnh sửa hoặc xóa
+– Các thủ tục công bố tiêu chuẩn, hồ sơ hành chính có thể phải thực hiện lại
+– Tốn kém cho biển hiệu, website, tài liệu nội bộ"
+    }
+  }]
+}
+</script>
