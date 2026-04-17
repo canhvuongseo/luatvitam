@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Tôi cần tư vấn gấp thì nên làm gì?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Bạn gọi trực tiếp vào hotline 0946 177 699 để được ưu tiên tiếp nhận và hỗ trợ kịp thời."
+    }
+  },{
+    "@type": "Question",
+    "name": "Bao lâu tôi sẽ được liên hệ lại sau khi gửi form?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Trong vòng 24 giờ làm việc qua kênh bạn chọn (Gọi điện/Zalo/Email)."
+    }
+  },{
+    "@type": "Question",
+    "name": "Tôi có thể được tư vấn sơ bộ trước khi quyết định sử dụng dịch vụ không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Có. Luật Vitam hỗ trợ tư vấn định hướng ban đầu để doanh nghiệp hiểu rõ vấn đề trước khi triển khai dịch vụ cụ thể."
+    }
+  },{
+    "@type": "Question",
+    "name": "Việc liên hệ có phát sinh chi phí ngay không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Không. Việc tiếp nhận thông tin và trao đổi ban đầu không làm phát sinh chi phí, các nội dung cụ thể sẽ được trao đổi rõ ràng sau."
+    }
+  },{
+    "@type": "Question",
+    "name": "Việc gửi thông tin qua website có phát sinh quan hệ luật sư – khách hàng không?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Không. Việc gửi thông tin qua website chỉ nhằm mục đích tiếp nhận yêu cầu; quan hệ luật sư - khách hàng chỉ phát sinh khi có thỏa thuận bằng văn bản."
+    }
+  }]
+}
+</script>
