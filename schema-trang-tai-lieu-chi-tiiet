@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Trang chủ",
+    "item": "https://vitamlaw.vn/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Trang tài liệu",
+    "item": "https://vitamlaw.vn/tai-lieu"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Trang tài liệu chi tiết",
+    "item": "https://vitamlaw.vn/tai%E2%80%93lieu/lai-suat-tiet-kiem-nhan-hieu-khcn"  
+  }]
+}
+</script>
